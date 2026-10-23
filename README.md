@@ -1,6 +1,6 @@
 <p align="right"><sub>ANWITA JINDHAM &nbsp; / &nbsp; GEORGIA TECH &nbsp; / &nbsp; 2026</sub></p>
 
-<img src="./assets/hero.svg" alt="Computing beyond the obvious — animated orbital study" width="100%" />
+<img src="./assets/hero.svg" alt="Anwita Jindham — animated orbital study" width="100%" />
 
 <br/>
 
@@ -9,9 +9,9 @@
 
 ### Hello, I'm Anwita.
 
-I'm a **Mathematics & Computing** student at **Georgia Tech**. I like projects where code crosses into other worlds — **Earth science, space, data, AI**, and sometimes dance.
+I'm a **Mathematics & Computing** student at **Georgia Tech**. I like projects where code crosses extends into other worlds — **Earth science, space, data, AI**, and sometimes dance.
 
-Still learning how to build things properly. Usually figuring something out by making it.
+
 
 </td><td valign="top">
 
