@@ -1,38 +1,82 @@
-<p align="right"><sub>ANWITA JINDHAM / GEORGIA TECH</sub></p>
+<p align="right"><sub>ANWITA JINDHAM &nbsp; / &nbsp; GEORGIA TECH</sub></p>
 
-# Curious about the world. Building things to understand it.
+# Computing beyond the obvious.
 
-I'm a **Mathematics & Computing** student at **Georgia Tech** who likes the overlap between **code, data, and science** — especially anything involving Earth, space, or AI.
+<sub>MATHEMATICS &nbsp; / &nbsp; INTELLIGENCE &nbsp; / &nbsp; EXPLORATION</sub>
 
-I started out writing little programs and somehow ended up experimenting with full-stack apps. Still figuring out a lot of the tools along the way, which is half the fun.
+I’m a **Mathematics & Computing** student at **Georgia Tech**, interested in what happens when computation meets the physical world — from **Earth and planetary science** to **machine learning**, data, and creative technology.
 
 <img src="./assets/orbit-field.svg" width="100%" alt="Animated monochrome orbital illustration" />
 
-<sub>AN ORBITAL STUDY / ALWAYS EXPLORING</sub>
+<sub>FIG. 01 &nbsp; — &nbsp; AN ORBITAL STUDY IN MOTION</sub>
 
 ---
 
-## Things I've been making
+## 01 / Selected work
 
-### [Dancr](https://github.com/anwitaj11/Dancr) / AI meets dance
+### [Dancr ↗](https://github.com/anwitaj11/Dancr)
+**COMPUTER VISION &nbsp; / &nbsp; DANCE &nbsp; / &nbsp; AI**
 
-A hackathon experiment in turning dance videos into tutorials with pose tracking and voice feedback. As someone who's danced for years, this one felt especially personal. **AI-assisted prototype; still a work in progress.**
+An AI-assisted dance coaching prototype that explores how pose tracking and voice feedback can make learning choreography more interactive. A meeting point between years of dancing and a growing interest in building software.
 
-<sub>REACT / FASTAPI / MEDIAPIPE / ELEVENLABS</sub>
-
-**[MentHers](https://github.com/anwitaj11/MentHers)**  
-An AI-assisted prototype for matching mentors and mentees around their goals and interests.
+<sub>REACT &nbsp; · &nbsp; FASTAPI &nbsp; · &nbsp; MEDIAPIPE &nbsp; · &nbsp; ELEVENLABS</sub>
 
 ---
 
-## Lately
+### [MentHers ↗](https://github.com/anwitaj11/MentHers)
+**MATCHING SYSTEMS &nbsp; / &nbsp; HUMAN CONNECTION**
 
-**Learning** / Git, web development, and how real software projects fit together.  
-**Exploring** / Data science, machine learning, Earth observation, and planetary science.  
-**Enjoying** / Projects that mix technical problem-solving with something creative.
+An AI-assisted mentoring platform prototype that connects mentors and mentees through shared interests, goals, and preferences.
 
-<sub>PYTHON / JAVA / JAVASCRIPT / REACT / FASTAPI</sub>
+<sub>REACT &nbsp; · &nbsp; NODE.JS &nbsp; · &nbsp; SQLITE &nbsp; · &nbsp; CLAUDE API</sub>
 
 ---
 
-<sub>MORE EXPERIMENTS COMING SOON.</sub>
+## 02 / Areas of exploration
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**01 — Data & intelligence**
+
+Machine learning, data analysis, and the patterns hiding in complex systems.
+
+</td>
+<td width="50%" valign="top">
+
+**02 — Earth & beyond**
+
+Climate, Earth observation, space, and planetary science.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**03 — Building systems**
+
+Learning the foundations of web development, Git, and software engineering.
+
+</td>
+<td valign="top">
+
+**04 — Creative computing**
+
+Finding unexpected connections between technology, movement, and design.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 03 / How I think about building
+
+I like projects that begin with a question, cross a few disciplines, and end with something tangible. I'm still learning the tools — and interested in understanding the systems behind what I make.
+
+<sub>PYTHON &nbsp; / &nbsp; JAVA &nbsp; / &nbsp; JAVASCRIPT &nbsp; / &nbsp; REACT &nbsp; / &nbsp; FASTAPI</sub>
+
+---
+
+<p align="right"><sub>ANWITA JINDHAM &nbsp; — &nbsp; ALWAYS EXPLORING ↗</sub></p>
