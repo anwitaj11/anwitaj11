@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+<title id="title">Computing beyond the obvious</title><desc id="desc">Animated monochrome orbital observatory with editorial typography and a subtle grid.</desc>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#273039" stroke-width=".7"/></pattern><linearGradient id="fade" x1="0" x2="1"><stop stop-color="#111820"/><stop offset="1" stop-color="#080c10"/></linearGradient><clipPath id="crop"><rect width="1200" height="430"/></clipPath></defs>
+<rect width="1200" height="430" fill="url(#fade)"/><rect width="1200" height="430" fill="url(#grid)" opacity=".5"/>
+<g clip-path="url(#crop)">
+<g transform="translate(905 209)" fill="none">
+<circle r="164" stroke="#343f49"/><circle r="124" stroke="#303b45" stroke-dasharray="2 8"/><circle r="82" stroke="#384550"/><circle r="39" stroke="#57636b"/>
+<ellipse rx="295" ry="104" transform="rotate(-29)" stroke="#b7c3ca" stroke-width="1.4" opacity=".75"/>
+<ellipse rx="242" ry="80" transform="rotate(44)" stroke="#5b6872" stroke-width="1"/>
+<path d="M-360 0H360M0-240V240" stroke="#6e7c85" stroke-width=".8" stroke-dasharray="4 10"/>
+<circle r="7" fill="#d7e1e5"/><circle r="15" stroke="#d7e1e5" opacity=".45"/>
+<g transform="rotate(-29)"><circle cx="295" cy="0" r="6" fill="#e5f2f6"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="16s" repeatCount="indefinite" additive="sum"/></circle></g>
+<g><circle cx="124" cy="0" r="3" fill="#9daab4"><animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="25s" repeatCount="indefinite"/></circle></g>
+</g>
+<g fill="#e8edf0" font-family="Arial, Helvetica, sans-serif"><text x="57" y="74" font-size="13" letter-spacing="4">ANWITA JINDHAM  /  GT</text><text x="55" y="192" font-size="58" font-weight="700" letter-spacing="-2">COMPUTING</text><text x="55" y="255" font-size="58" font-weight="700" letter-spacing="-2">BEYOND THE</text><text x="55" y="318" font-size="58" font-weight="700" letter-spacing="-2">OBVIOUS.</text></g>
+<path d="M57 346H465" stroke="#5b6973"/><text x="57" y="375" fill="#9eabb5" font-size="13" font-family="monospace" letter-spacing="1.8">MATHEMATICS  /  INTELLIGENCE  /  EXPLORATION</text>
+<g fill="#93a3ad" font-family="monospace" font-size="11" letter-spacing="1.6"><text x="1050" y="41">FIG. 001</text><text x="1000" y="399">ORBITAL STUDY</text><text x="57" y="413">ATLANTA, GA</text></g>
+<path d="M26 26H46M26 26V46M1174 26H1154M1174 26V46M26 404H46M26 404V384M1174 404H1154M1174 404V384" stroke="#83919a" stroke-width="1"/>
+</g></svg>
