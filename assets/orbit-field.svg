@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Orbital field</title><desc id="desc">Minimal animated technical diagram of intersecting orbital paths and a moving observation point.</desc>
+<rect width="1200" height="340" fill="#101418"/>
+<g stroke="#313940" stroke-width="1" fill="none">
+<path d="M0 70H1200M0 170H1200M0 270H1200" stroke-dasharray="2 12"/>
+<path d="M150 0V340M450 0V340M750 0V340M1050 0V340" stroke-dasharray="2 12"/>
+<ellipse cx="780" cy="170" rx="295" ry="112" transform="rotate(-17 780 170)"/>
+<ellipse cx="780" cy="170" rx="205" ry="78" transform="rotate(29 780 170)"/>
+<circle cx="780" cy="170" r="44"/>
+</g>
+<g stroke="#b7c2c9" stroke-width="1" opacity=".8"><path d="M780 115V225M725 170H835"/></g>
+<circle cx="780" cy="170" r="4" fill="#e7e9e8"/>
+<g transform="rotate(-17 780 170)">
+<circle r="6" fill="#e7e9e8"><animateMotion dur="13s" repeatCount="indefinite" path="M1075 170 A295 112 0 1 1 485 170 A295 112 0 1 1 1075 170"/></circle>
+</g>
+<rect x="0" y="0" width="2" height="340" fill="#d9dedf" opacity=".45"><animate attributeName="x" values="0;1198;0" dur="18s" repeatCount="indefinite"/></rect>
+<g fill="#aeb7bd" font-family="monospace" font-size="14" letter-spacing="2">
+<text x="48" y="52">ORBITAL STUDY / 001</text>
+<text x="48" y="290">OBSERVATION IS A FORM OF EXPLORATION.</text>
+<text x="995" y="290">35.0° N / ∞</text>
+</g>
+<g stroke="#89949c" stroke-width="1"><path d="M40 75H110M40 75V95M1160 245H1090M1160 245V225"/></g>
+</svg>
