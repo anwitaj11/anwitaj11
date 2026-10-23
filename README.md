@@ -1,6 +1,6 @@
 <p align="right"><sub>ANWITA JINDHAM &nbsp; / &nbsp; GEORGIA TECH &nbsp; / &nbsp; 2026</sub></p>
 
-<img src="./assets/hero.svg" alt="Anwita Jindham — animated orbital study" width="100%" />
+<img src="./assets/hero-v2.svg" alt="Anwita Jindham — animated orbital study" width="100%" />
 
 <br/>
 
