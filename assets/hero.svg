@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
-<title id="title">Anwita Jindham — Mathematics & Computing</title><desc id="desc">Animated monochrome orbital observatory with editorial typography and a subtle grid.</desc>
+<title id="title">Anwita Jindham — Mathematics &amp; Computing</title><desc id="desc">Animated monochrome orbital observatory with editorial typography and a subtle grid.</desc>
 <defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#273039" stroke-width=".7"/></pattern><linearGradient id="fade" x1="0" x2="1"><stop stop-color="#111820"/><stop offset="1" stop-color="#080c10"/></linearGradient><clipPath id="crop"><rect width="1200" height="430"/></clipPath></defs>
 <rect width="1200" height="430" fill="url(#fade)"/><rect width="1200" height="430" fill="url(#grid)" opacity=".5"/>
 <g clip-path="url(#crop)">
@@ -9,7 +9,7 @@
 <ellipse rx="242" ry="80" transform="rotate(44)" stroke="#5b6872" stroke-width="1"/>
 <path d="M-360 0H360M0-240V240" stroke="#6e7c85" stroke-width=".8" stroke-dasharray="4 10"/>
 <circle r="7" fill="#d7e1e5"/><circle r="15" stroke="#d7e1e5" opacity=".45"/>
-<g transform="rotate(-29)"><circle cx="295" cy="0" r="6" fill="#e5f2f6"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="16s" repeatCount="indefinite" additive="sum"/></circle></g>
+<g transform="rotate(-29)"><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="16s" repeatCount="indefinite"/><circle cx="295" cy="0" r="6" fill="#e5f2f6"/></g></g>
 <g><circle cx="124" cy="0" r="3" fill="#9daab4"><animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="25s" repeatCount="indefinite"/></circle></g>
 </g>
 <g fill="#e8edf0" font-family="Arial, Helvetica, sans-serif"><text x="57" y="74" font-size="13" letter-spacing="4">ANWITA JINDHAM  /  GT</text><text x="55" y="205" font-size="66" font-weight="700" letter-spacing="-2">ANWITA</text><text x="55" y="280" font-size="66" font-weight="700" letter-spacing="-2">JINDHAM.</text></g>
